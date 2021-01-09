@@ -12,8 +12,8 @@
   
   </div>
 
-  <a class="btn btn-success mb-2" href="{{url('empleado/create')}} ">Nuevo Usuario</a>
-  <table class="table">
+  <a class="btn btn-success mb-2 ml-5" href="{{url('empleado/create')}} ">Nuevo Usuario</a>
+  <table class="table ml-5">
     <thead>
       <tr>
         <th scope="col">#</th>
